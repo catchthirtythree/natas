@@ -1,4 +1,4 @@
-# natas1
+# natas0
 
 Inspect the main content element. Because right-click has been disabled, you can use F12 to open Dev Tools or you can inspect parts of the page with Ctrl + Atl + C. The password can be found in a comment.
 
