@@ -1,3 +1,5 @@
+<?php
+
 function decodeSecret($secret) {
     return base64_decode(strrev(hex2bin($secret)));
 }
