@@ -6,7 +6,5 @@ Run the `solve.py` script and read the contents for the password.
 
 <details>
   <summary>Password</summary>
-  ```
   iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq
-  ```
 </details>

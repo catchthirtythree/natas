@@ -4,7 +4,5 @@ If you view the source code you'll see that they are comparing your input agains
 
 <details>
   <summary>Password</summary>
-  ```
   7z3hEENjQtflzgnT29q7wAvMNfZdh0i9
-  ```
 </details>

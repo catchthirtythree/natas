@@ -4,7 +4,5 @@ Inspect the main content element. Because right-click has been disabled, you can
 
 <details>
   <summary>Password</summary>
-  ```
   ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi
-  ```
 </details>

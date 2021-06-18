@@ -4,7 +4,5 @@ Inspect the main content element to find a comment about Google not being able t
 
 <details>
   <summary>Password</summary>
-  ```
   Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ
-  ```
 </details>

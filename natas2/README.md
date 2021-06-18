@@ -4,7 +4,5 @@ Inspect the main content element to find a `pixel.png` image on the page. You ca
 
 <details>
   <summary>Password</summary>
-  ```
   sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14
-  ```
 </details>

@@ -12,7 +12,5 @@ You can do directory traversal here and read the webpass file by entering `../..
 
 <details>
   <summary>Password</summary>
-  ```
   DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe
-  ```
 </details>
