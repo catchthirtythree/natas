@@ -27,5 +27,3 @@ while len(password) != length:
         if 'This user exists' in content:
             password += letter
             break
-
-print(url)

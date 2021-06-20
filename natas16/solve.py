@@ -24,5 +24,4 @@ while len(password) != 32:
 
         if "Aprils" not in content:
             password += letter
-            index += 1
             break

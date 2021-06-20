@@ -2,7 +2,7 @@
 
 First, notice that the page will show you what query is being executed if you add `debug` to the GET request / query string. I'm thinking that might be key to figuring this one out since it doesn't look like there's any other place for the server to emit something to us.
 
-I was wondering if I could take advantage of `echo` and run some `php` commands but I wasn't able to get anything going. Then I found a post on stackoverflow that mentinoed there that I might not be able to do any code injection with `php` but with echo there was a risk of XSS attacks.
+I was wondering if I could take advantage of `echo` and run some `php` commands but I wasn't able to get anything going. Then I found a post on stackoverflow that mentioned that I might not be able to do any code injection with `php` but with echo there was a risk of XSS attacks.
 
 So I tried to play with putting an `iframe` in the window and it worked, but it wasn't showing what I wanted it to show. I'm actually not sure if I'm able to make it show what I want to show because what it would be showing belongs to me and not the server.
 
