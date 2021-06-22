@@ -10,7 +10,7 @@ I thought about trying to bruteforce with a boolean check like the last challeng
 
 `aprils$(a=$(cat /etc/natas_webpass/natas17))$(grep <letter> <<< ${a:<index>:1})`
 
-but it would not work at all when I put it into practice. It seemed to work in my terminal with some test files though.
+but it would not work at all when I put it into practice. It seemed to work in my terminal with some test files though. Oh well.
 
 I'll admit that I ended up having enough of this one and looked it up and damn was I decently close (at least with the grep part...). I think I need to take a step back at some point or take a break because I could have had it but I got a little too impatient.
 
