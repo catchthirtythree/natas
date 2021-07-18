@@ -2,8 +2,7 @@ import requests
 import json
 
 headers = {
-    'Authorization': 'Basic bmF0YXMyNzo1NVRCanBQWlVVSmdWUDViM0JuYkc2T045dURQVnpDSg==',
-    'Content-Type': 'application/x-www-form-urlencoded; charset=utf-7;'
+    'Authorization': 'Basic bmF0YXMyNzo1NVRCanBQWlVVSmdWUDViM0JuYkc2T045dURQVnpDSg=='
 }
 
 url = 'http://natas27.natas.labs.overthewire.org/index.php'
